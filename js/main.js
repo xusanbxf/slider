@@ -84,6 +84,6 @@ class SLIDER {
 
 const slider = new SLIDER({
     el: '.slider',
-    speed: 1000,
+    speed: 500,
     autoplay: true,
 })
